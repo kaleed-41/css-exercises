@@ -1,4 +1,4 @@
-.number1{
+.number1, .number5{
     background-color: pink;
 }
 
@@ -18,8 +18,4 @@
     color: black;
     font-size: 20px;
     font-weight: bold;
-}
-
-.number5{
-    background-color: pink;
 }
